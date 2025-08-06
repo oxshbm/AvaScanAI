@@ -4,7 +4,7 @@
 
 AvaScanAI is an enterprise-grade blockchain intelligence platform designed for developers, infrastructure teams, and enterprises operating on **Avalanche C-Chain**. We provide professional-grade gas efficiency tracking, transaction flow visualization, and intelligent analysis for mission-critical Avalanche operations.
 
-**AvaScanAI is an enterprise-grade intelligence platform built for the Avalanche C-Chain, combining sub-second finality, low gas costs, and EVM compatibility with AI-powered analytics. Unlike traditional explorers, it transforms raw blockchain data into actionable insights by leveraging GPT-4 for transaction analysis, real-time gas tracking, price feed aggregation, and DeFi protocol detection. With interactive flow visualizations, risk assessment, portfolio tracking, and a network intelligence dashboard, AvaScanAI empowers developers, enterprises, and infrastructure teams to optimize gas efficiency, monitor network health, and make smarter decisions in production-grade Avalanche operations**
+*AvaScanAI is an enterprise-grade intelligence platform built for the Avalanche C-Chain, combining sub-second finality, low gas costs, and EVM compatibility with AI-powered analytics. Unlike traditional explorers, it transforms raw blockchain data into actionable insights by leveraging GPT-4 for transaction analysis, real-time gas tracking, price feed aggregation, and DeFi protocol detection. With interactive flow visualizations, risk assessment, portfolio tracking, and a network intelligence dashboard, AvaScanAI empowers developers, enterprises, and infrastructure teams to optimize gas efficiency, monitor network health, and make smarter decisions in production-grade Avalanche operations*
 
 
 
