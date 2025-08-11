@@ -17,7 +17,7 @@ AvaScanAI is an enterprise-grade blockchain intelligence platform designed for d
 
 ## 🚀 How AvaScanAI Works
 
-AvaScanAI transforms complex blockchain data into actionable business intelligence by leveraging:
+AvaScanAI transforms complex blockchain data into actionable business intelligence by leveraging
 
 1. **OpenAI GPT-4** for intelligent transaction analysis
 2. **Avalanche C-Chain** for real-time gas tracking and network metrics
