@@ -28,6 +28,8 @@ AvaScanAI transforms complex blockchain data into actionable business intelligen
 
 
 
+
+
 Unlike traditional explorers that show raw data, AvaScanAI provides **enterprise-grade network intelligence** that helps development teams optimize gas efficiency, reduce transaction costs, and monitor network performance for production applications.
 
 ## 🌟 Key Features
