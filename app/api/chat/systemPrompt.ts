@@ -157,6 +157,7 @@ REQUIRED OUTPUT FORMAT:
 - **Network Congestion**: [Current status and trend]
 - **Optimal Transaction Windows**: [Time recommendations]
 - **Cost Prediction**: Gas prices expected to [increase/decrease/stabilize]
+
 - **Strategic Timing**: [When to execute similar transactions]
 
 ---Section---
