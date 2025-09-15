@@ -185,6 +185,8 @@ AvaScanAI enhances the Avalanche experience by:
 - **Network Query Speed**: < 500ms for Avalanche RPC calls
 - **Real-time Updates**: 2-second block monitoring
 
+*************************************************
+
 ## 🚀 Deployment
 
 ### Local Development
@@ -233,4 +235,4 @@ POST /api/chat
 
 ---
 
-**Built with ❤️ for the Avalanche ecosystem | Powered by AI 🤖**
+**Built with ❤️ for the Avalanche ecosystem**
